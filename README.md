@@ -108,3 +108,19 @@ When it comes to Thomas High Schools' ranking among the top schools, cleaning th
 
 
 ## Summary 
+
+Cleaning, verifying and formatting data are very important when doing any sort of analysis. This specific dataset wasn't affected much by the dihonest scores, however a different type or bigger dataset might be. As mentioned, the changes in this set were miniscule, however there were still at leat 4 mesurable changes. 
+
+1. For "Average Math Score" in the District Summary, the score dropped by .1%
+2. For the "% Passing Reading" in the School Summary, the score dropped by .3%
+3. The 9th Grade scores for "Math scores by grade" are now "NaN" or No Applicable Number. 
+4. The 9th Grade scores for "Reading scores by grade" are now "NaN" or No Applicable Number. 
+
+
+
+
+
+
+
+
+
