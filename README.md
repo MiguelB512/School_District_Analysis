@@ -70,8 +70,41 @@ When it comes to Thomas High Schools' ranking among the top schools, cleaning th
        ![Math scores by grade](https://user-images.githubusercontent.com/60283799/172740116-d5f0ca49-1464-4369-b8ca-928f64377782.PNG)
 
      - Scores by School Spending
+       
+       When looking at scores by school spending, Thomas High School falls under the "$631-645" category and we can see that there is no change after cleaning the data. 
+       
+       Before cleaning the data:
+       
+       ![spending summary before cleanup](https://user-images.githubusercontent.com/60283799/172750492-955d0cf8-20ed-4eb2-ba16-7e379a34ff4d.PNG)
+
+       After cleaning the data: 
+       
+       ![spending summaries after cleanup](https://user-images.githubusercontent.com/60283799/172750534-1e078f3c-1b9f-48bf-a639-1aad05f02ce9.PNG)
+
      - Scores by School Size
+       
+       Thomas High School is considered a "Medium" sized school, and when looking at the outcome it's evident that cleaning the data made no difference in this category. 
+       
+       Before cleaning the data: 
+       
+       ![scores by school size before cleanup](https://user-images.githubusercontent.com/60283799/172750747-d3130f10-bd15-4dcd-b466-f936fde17225.PNG)
+       
+       After cleaning the data:
+       
+       ![scores by school size after cleanup](https://user-images.githubusercontent.com/60283799/172750778-a43cab78-8149-44c9-be7e-29943ff181a1.PNG)
+
      - Scores by School Type 
+       
+       Finally we come to scores by school type. Thomas High School is a Charter school, and we notice that the cleaning the data had no impact on this category. 
+       
+       Before cleaning the data:
+       
+       ![scores by school type before cleanup](https://user-images.githubusercontent.com/60283799/172751066-7ae943d8-9ea9-42c7-bffc-3cb23cd28e89.PNG)
+
+       After cleaning the data:
+       
+       ![scores by school type after cleanup](https://user-images.githubusercontent.com/60283799/172751051-b3b6bf38-eed5-4a16-84f5-510332936508.PNG)
+
 
 
 ## Summary 
